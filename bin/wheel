@@ -1,0 +1,6 @@
+#!/Users/patricio/anaconda/envs/lab/bin/python
+if __name__ == '__main__':
+    import sys
+    from wheel.tool import main
+
+    sys.exit(main())
